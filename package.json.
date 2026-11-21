@@ -1,0 +1,3 @@
+{ "name": "cap-business", "version": "1.0.0", "type": "module",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4", "express-rate-limit": "^7", "@anthropic-ai/sdk": "*" } }
